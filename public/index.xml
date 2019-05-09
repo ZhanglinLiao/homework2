@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Title | Hugo Remark-Twemoji</title>
+    <link>/</link>
+    <description>Recent content on Site Title | Hugo Remark-Twemoji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/slide/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/01/</guid>
+      <description>class: center, middle, inverse
+#.fonth2[Hugo]
+- #.fonth4[remark-twemoji] https://github.com/eueung/hugo-remark-twemoji</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/03/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #.red[Kokokok] # Hello People! Let&#39;s continue our class! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/05/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Ockay! C&#39;mon Leute ... ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/06/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Waaat Schon Wieder Untericht? .blue[No.no.no]! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/07/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Please dong.. Class can wait.. now we need a little fun with... .red[Kung-Fu]! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/08/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Got it.. today we learn Kung-Fu in the class! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/09/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Cool Sounds amusing! ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/10/</guid>
+      <description>class: center, middle, inverse
+Remark What is it and why should I be using it? layout: false .left-column[ ## What is it? ] .right-column[ A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS, featuring:
+ Markdown formatting, with smart extensions
+ Presenter mode, with cloned slideshow view
+ Syntax highlighting, supporting a range of languages
+ Slide scaling, thus similar appearance on all devices / resolutions .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/15/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/17/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/18/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/21/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/25/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #New Ideas? ... ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/26/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Learn Always learn something new .. ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title>欢迎来到我的博客</title>
+      <link>/post/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <description>欢迎来到我的博客，我是练习时长两年半的英雄联盟练习生，喜欢送，喷，互动</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2019-05-01-5-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-05-01-5-1/</guid>
+      <description>title: ‘5.1’author: 廖长霖date: ‘2019-05-01’slug: 5-1categories:- Rtags: []这是5.1的一天，像每个假期一样，在早上或者被称作中午的11点自然醒来，打开手机点好外卖，只有外卖旗手的催促电话打来才有足够的动力是我下床，于是就这样开启了充实的、愉快的假期第一天！</description>
+    </item>
+    
+  </channel>
+</rss>

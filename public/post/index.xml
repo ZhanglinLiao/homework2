@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Site Title | Hugo Remark-Twemoji</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Site Title | Hugo Remark-Twemoji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>欢迎来到我的博客</title>
+      <link>/post/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <description>欢迎来到我的博客，我是练习时长两年半的英雄联盟练习生，喜欢送，喷，互动</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2019-05-01-5-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-05-01-5-1/</guid>
+      <description>title: ‘5.1’author: 廖长霖date: ‘2019-05-01’slug: 5-1categories:- Rtags: []这是5.1的一天，像每个假期一样，在早上或者被称作中午的11点自然醒来，打开手机点好外卖，只有外卖旗手的催促电话打来才有足够的动力是我下床，于是就这样开启了充实的、愉快的假期第一天！</description>
+    </item>
+    
+  </channel>
+</rss>
